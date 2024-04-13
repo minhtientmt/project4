@@ -18,9 +18,9 @@ const UserDetail = ({ user, onViewPhotosClick }) => {
 
       <Typography variant="body1">Address: {user.address}</Typography>
 
-      {/* Other user details */}
+      {/* Other user details
 
-      <Button variant="contained" onClick={onViewPhotosClick}>View Photos</Button>
+      <Button variant="contained" onClick={onViewPhotosClick}>View Photos</Button> */}
 
     </div>
 
